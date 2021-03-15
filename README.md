@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+## This project is called Andika
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+With andila, I used React Js and Material UI.
+
+## The url
+
+[https://andika-blog.netlify.app/](https://andika-blog.netlify.app/)
 
 ## Available Scripts
 
